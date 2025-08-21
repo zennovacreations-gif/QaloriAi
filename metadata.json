@@ -1,0 +1,5 @@
+{
+  "name": "QaloriAI",
+  "description": "QaloriAI is an AI-powered daily meal planning app that helps users choose what to eat based on their calorie needs, dietary preferences, and health goals. It features AI-generated meal plans, calorie and macro tracking, recipes, and meal swap suggestions.",
+  "requestFramePermissions": []
+}
